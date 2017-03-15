@@ -5,7 +5,6 @@ p.intro {
 p.main {
   color: red;
 }
-
 p.closing {
   font-size: 20px;
 }
@@ -18,4 +17,29 @@ p{
 
 h1 {
   text-align: center;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+  display:block;
+  margin: auto;
+  border-style: solid;
+  border-color: pink;
+  border-radius: 20px;
+}
+
+h2.menu {
+  text-align: center;
+  color: purple;
+
+}
+
+body.menu-background {
+
+  background-color: salmon;
+}
+
+body.contacts-background {
+  background-color: blue;
 }
