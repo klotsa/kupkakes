@@ -41,5 +41,24 @@ body.menu-background {
 }
 
 body.contacts-background {
-  background-color: blue;
+  background-color: #9999ff;
+}
+
+body.index-background {
+  background-color: #ffbb99
+
+}
+
+a {
+    text-align: center;
+    display:block;
+    margin: auto;
+}
+.navigation {
+
+
+  font-family: fantasy;
+  font-size: 2em;
+
+
 }
