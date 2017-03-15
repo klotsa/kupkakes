@@ -1,0 +1,21 @@
+p.intro {
+  font-style: italic;
+}
+
+p.main {
+  color: red;
+}
+
+p.closing {
+  font-size: 20px;
+}
+
+p{
+  color: blue;
+
+}
+
+
+h1 {
+  text-align: center;
+}
